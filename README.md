@@ -24,3 +24,6 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 ![Main View](https://github.com/usman-zaka/job-data-visualisation/blob/main/Data_Jobs_Dashboard_Main_View.png)
+
+### Page 2: Job Title Drill Through
+![Drill Through View](https://github.com/usman-zaka/job-data-visualisation/blob/main/Data_Jobs_Dashboard_Drillthrough.png)
