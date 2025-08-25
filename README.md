@@ -20,3 +20,6 @@ This project was a journey through key Power BI features. Here's a look at what 
   - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
 ---
  ## Dashboard Overview
+*This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
+
+### Page 1: High-Level Market View
