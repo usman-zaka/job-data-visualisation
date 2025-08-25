@@ -18,5 +18,5 @@ This project was a journey through key Power BI features. Here's a look at what 
   - **Slicers:** To dynamically filter the report by Job Title.
   - **Buttons & Bookmarks:** To create a seamless navigation experience.
   - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
-
+---
  ## Dashboard Overview
