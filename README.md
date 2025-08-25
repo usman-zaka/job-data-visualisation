@@ -23,3 +23,4 @@ This project was a journey through key Power BI features. Here's a look at what 
 *This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
 
 ### Page 1: High-Level Market View
+![Main View](image-url Data_Jobs_Dashboard_Main_View.png)
